@@ -7,7 +7,8 @@
 <!-- resources/view/calc.blade.php -->
 
 {{Form::open()}}
-
+testing <br/>
+haja jadeda
 {{Form::label('num1','First num')}}
 {{Form::text('num1')}}
 
